@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Frontend Developer Goals.
+date:   2018-09-12 16:40:16
+description: Goals as a Frontend Developer
+---
+
+
+#### Goals list
+<ul>
+	<li>Your goals as a Frontend developer
+	</li>
+	<li>
+	Your experience with Bloc
+	</li>
+	<li>
+	The biggest challenge you've faced when learning to develop.
+	</li>
+</ul>
+
+As a Frontend Developer, my goals are to be able to strap a company with updates on various things (items, prices, styles, modules, internal programs and services, etc) that they find to be necessary to serve their users or themselves.
+I plan on using my abilities as a web developer to give bands useful sites to help them manage themselves, to bond humanitarian communities, and to accumulate wealth.
+My school (Bloc) has been an empowering teacher that has armed me with the vast abilities of a web developer. From being able to create Operating systems in browsers to creating complex puzzles and games and outputs, i feel prepared enough to be able to put anything up via a website or protocol.
+The biggest challenge I currently have is testing and following a user story. Usually I just stamp whatever I want into the website and make it functional. Following a user story to the way someone else writes it is not the path of least resistance, and as we know, nature prefers that way.   
