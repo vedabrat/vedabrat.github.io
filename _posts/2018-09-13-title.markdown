@@ -8,8 +8,7 @@ description: First step to the loan process with Anand
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
   <!-- all your input fields here.... -->
-  <input type='text' name='test' />
-</p>
+  </p>
 <table width="100%" cellpadding="3" cellspacing="0">
 	<col width="128*">
 	<col width="128*">
