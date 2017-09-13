@@ -20,50 +20,50 @@ description: First step to the loan process with Anand
 	</tr>
 	<tr valign="top">
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><input type="text" name="name" id="input01" placeholder="Name: eg. John Smith"/></p>
+			<p><input type="text" name="Borrower Name" id="input01" placeholder="Name: eg. John Smith"/></p>
 		</td>
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p><input type="text" id="input02" placeholder="Today's Date: eg. 12/12/2018"/></p>
+			<p><input type="text" id="input02" name="Borrower Date" placeholder="Today's Date: eg. 12/12/2018"/></p>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><input type="text" id="input03" placeholder="Address eg. 123 Providence Blvd."/></p>
+			<p><input type="text" id="input03" name="Borrower Address" placeholder="Address eg. 123 Providence Blvd."/></p>
 		</td>
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p><input type="text" id="input04" placeholder="Birthdate: eg. 12/16/1995"/></p>
+			<p><input type="text" id="input04" name="Borrower Birthdate placeholder="Birthdate: eg. 12/16/1995"/></p>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><input type="text" id="input05" placeholder="City: eg. Jersey City"/></p>
+			<p><input type="text" id="input05" name="Borrower City" placeholder="City: eg. Jersey City"/></p>
 		</td>
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p><input type="text" id="input06" placeholder="Phone # eg. 123-465-7890"/></p>
+			<p><input type="text" id="input06" name="Borrower Phonenumber" placeholder="Phone # eg. 123-465-7890"/></p>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><input type="text" id="input07" placeholder="State: eg. WA"/></p>
+			<p><input type="text" id="input07" name="Borrower State" placeholder="State: eg. WA"/></p>
 		</td>
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p><input type="text" id="input08" placeholder="Work Phone# eg. 012-345-6789"/></p>
+			<p><input type="text" id="input08" name="Borrower phone" placeholder="Work Phone# eg. 012-345-6789"/></p>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><input type="text" id="input09" placeholder="Zipcode eg. 12345"/></p>
+			<p><input type="text" id="input09" name="Borrower Zipcode" placeholder="Zipcode eg. 12345"/></p>
 		</td>
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p><input type="text" id="input010" placeholder=" Driver's License #, eg. E123456789012"/></p>
+			<p><input type="text" id="input010" name="Borrowers Driver's License" placeholder=" Driver's License #, eg. E123456789012"/></p>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><input type="text" id="input011" placeholder="email: eg. Johnsmith123@verizon.com"/></p>
+			<p><input type="text" id="input011" name="Borrower's email" placeholder="email: eg. Johnsmith123@verizon.com"/></p>
 		</td>
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p><input type="text" id="input012" placeholder="Social Security Number eg. 123-45-6789"/></p>
+			<p><input type="text" id="input012" name="Borrower's SSN" placeholder="Social Security Number eg. 123-45-6789"/></p>
 		</td>
 	</tr>
 </table>
@@ -132,31 +132,31 @@ description: First step to the loan process with Anand
 	</tr>
 	<tr valign="top">
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p>$<input type="text" id="input013" placeholder="Loan Amount: 2000."/></p>
+			<p>$<input type="text" id="input013" name="loan Amount" placeholder="Loan Amount: 2000."/></p>
 		</td>
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p>Loan Period: From <input type="text" id="input014" placeholder="1st day: eg. 12/15/2018"/><br/> To <input type="text" id="input015" placeholder="Last day: eg 10/16/2023"/></p>
+			<p>Loan Period: From <input type="text" name="start Date" id="input014" placeholder="1st day: eg. 12/15/2018"/><br/> To <input type="text" id="input015" name="end Date" placeholder="Last day: eg 10/16/2023"/></p>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><input type="text" id="input016" placeholder="Interest Rate eg. 13% APY"/></p>
+			<p><input type="text" name="interest Rate" id="input016" placeholder="Interest Rate eg. 13% APY"/></p>
 		</td>
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<p><input type="text" id="input017" placeholder="Payment schedule eg. Monthly on the 1st"/></p>
+			<p><input type="text" id="input017" name="payment schedule" placeholder="Payment schedule eg. Monthly on the 1st"/></p>
 		</td>
 	</tr>
 </table>
 
 <p style="margin-bottom: 0in; line-height: 100%">1. Promise to Pay.
 For value received,  
-<input type="text" id="input1" placeholder="John Smith"/>
+<input type="text" id="input1" name="borrower name2" placeholder="John Smith"/>
 
 (Borrower) promises to pay Vedabrat Anand Etwaru (Lender) $</p>
-<input type="text" id="input2" placeholder="400"/>
+<input type="text" name="installment amounts" id="input2" placeholder="400"/>
  and interest at
 the annual rate of
-<input type="text" id="input3" placeholder="13"/>
+<input type="text" name="interest rate" id="input3" placeholder="13"/>
 
 % on the unpaid
 balance as specified below.<br/>
@@ -166,28 +166,28 @@ balance as specified below.<br/>
 
 </p>
 <p style="margin-bottom: 0in; line-height: 100%"><input type="checkbox" id="input13.5">Option 1</br>  Borrower
-will pay <input type="text" id="input5" placeholder="14"/>
- payments of $<input type="text" id="input6" placeholder="200"/>
- each at <input type="text" id="input7" placeholder="Monthly"/>
+will pay <input type="text" name="number of payments" id="input5" placeholder="14"/>
+ payments of $<input type="text" name="payment amounts" id="input6" placeholder="200"/>
+ each at <input type="text" name="payment frequency" id="input7" placeholder="Monthly"/>
  intervals on
-the <input type="text" id="input8" placeholder="first"/>
+the <input type="text" name="payment start day" id="input8" placeholder="first"/>
 day of the month.<br/>
 
-<input type="checkbox" id="input9">Option 2 </br> Borrower
+<input type="checkbox" name="checkbox option 1" id="input9">Option 2 </br> Borrower
 will pay one lump payment on
-<input type="text" id="input10" placeholder="5/24/2032"/>
+<input type="text" name="lump sum payment amount" id="input10" placeholder="5/24/2032"/>
 
  date
 <br/>
 
-<input type="checkbox" id="input11">Option 3 </br> Borrower
-will pay <input type="text" id="input12" placeholder="10"/>
- payments of $<input type="text" id="input13" placeholder="443.21"/>
- each at<input type="text" id="input14" placeholder="Quarterly"/>
+<input type="checkbox" name="checkbox 2" id="input11">Option 3 </br> Borrower
+will pay <input type="text" name="chkbx installment 1" id="input12" placeholder="10"/>
+ payments of $<input type="text" name="chkbx payments 1" id="input13" placeholder="443.21"/>
+ each at<input type="text" id="input14" name="chkbx periodic payments" placeholder="Quarterly"/>
  intervals with
-a final balloon payment of $<input type="text" id="input15" placeholder="3000"/>
+a final balloon payment of $<input type="text" id="input15" name="chkbx final payment" placeholder="3000"/>
  at the end of the loan term on
-<input type="text" id="input16" placeholder="5/24/2056"/>
+<input type="text" id="input16" name="chkbx final payment date" placeholder="5/24/2056"/>
  date.
 </p>
 <br/>
@@ -203,33 +203,33 @@ and future interest at anytime.<br/><br/>
 5. Loan
 Acceleration. <br/>If Borrower is more than
 
-<input type="text" id="input18" placeholder="62"/>
+<input type="text" id="input18" name="days late" placeholder="62"/>
 days late in making
 any payment, Lender may declare that the entire balance of unpaid
 principal is due immediately, together with the interest that has
 accrued.<br/><br/>
 
-6. Security.<br/><br/><input type="checkbox" id="input19">Option 1. <br/>Borrower
+6. Security.<br/><br/><input type="checkbox" name="chkbx2" id="input19">Option 1. <br/>Borrower
 agrees that until the principal and interest owed under this
 promissory note are paid in full, this note will be secured by a
 signed agreement and Uniform Commercial Code Financing statement
 giving Lender a security interest in the equipment, fixtures,
 inventory, ad accounts receivable of the business known as
-<input type="text" id="input20" placeholder="4 Guys Pizzeria"/>
+<input type="text" id="input20" name="chkbx2 business name" placeholder="4 Guys Pizzeria"/>
 .<br/>
 <br/>
-<input type="checkbox" id="input21">Option 2. <br/>Borrower Agrees that
+<input type="checkbox" name="chkbx3" id="input21">Option 2. <br/>Borrower Agrees that
 until the principal and interest owed under this Promissory note are
 paid in full, this note will be secured by the
 	<br/>(Option 2.1) Mortgage
-of the following property <input type="text" id="input22" placeholder="25 Communipaw Ave, Jersey City, NJ"/>
+of the following property <input type="text" name="chkbx3 address" id="input22" placeholder="25 Communipaw Ave, Jersey City, NJ"/>
 <br/>
 			under the name
-of <input type="text" id="input23" placeholder="John Smith" />
+of <input type="text" id="input23" name="chkbx3 name" placeholder="John Smith" />
 	<br/>(Option 2.2) deed of
-trust covering the real estate commonly known as <input type="text" id="input25" placeholder="Smith Property Group"/>
-<br/>and located at <input type="text" id="input26" placeholder="224 Pompton Lakes, Parsippany, NJ"/>
-<br/>and more fully described as follows: <input type="text" id="input27" placeholder="Lakefront properties owned by John Smith and other trustees in Parsippany NJ"/>
+trust covering the real estate commonly known as <input type="text" id="input25" name="chkbx3 property name" placeholder="Smith Property Group"/>
+<br/>and located at <input type="text" id="input26" name="chkbx3 Address" placeholder="224 Pompton Lakes, Parsippany, NJ"/>
+<br/>and more fully described as follows: <input type="text" id="input27" name="chkbx3 description" placeholder="Lakefront properties owned by John Smith and other trustees in Parsippany NJ"/>
 <br/><br/>
 7. Collection Costs.<br/>
 If Lender prevails in a lawsuit to collect on this note, Borrower
@@ -258,14 +258,14 @@ Jersey, USA. <br/>
 <br/>
 
 <br/>Witnessed
-<input type="text" id="input29" />
- Date <input type="text" id="input30" placeholder="12/12/2018"/><br/>
+<input type="text" name="final witness name" id="input29" />
+ Date <input type="text" id="input30" name="final witniss Date" placeholder="12/12/2018"/><br/>
 Borrower
 
-<input type="text" id="input31" placeholder="John Smith"/>
+<input type="text" id="input31" name="Final borrower name" placeholder="John Smith"/>
 Date
 
-<input type="text" id="input32" placeholder="12/12/2018"/>
+<input type="text" id="input32" name="final borrower Date" placeholder="12/12/2018"/>
 <br/>
 
 
