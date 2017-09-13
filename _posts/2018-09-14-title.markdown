@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Create a loan with Anand
-date: 2018-09-13 1:09:00
-description: First step to the loan process with Anand
+title:  Frontend Developer Goals.
+date:   2018-09-12 16:40:16
+description: Goals as a Frontend Developer
 ---
+
 <form action="https://getsimpleform.com/messages?form_api_token=5364b7dc575df9a4449bde7d9e63a705" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
@@ -340,26 +341,3 @@ console.log (timestamp, specArr0, specArr1);
 
 
 </script>
-
-<!--
-{% highlight c++ %}
-
-int main(int argc, char const *argv[])
-{
-	string myString;
-
-	cout << "input a string: ";
-	getline(cin, myString);
-	int length = myString.length();
-
-	char charArray = new char * [length];
-
-	charArray = myString;
-	for(int i = 0; i < length; ++i){
-		cout << charArray[i] << " ";
-	}
-
-	return 0;
-}
-
-{% endhighlight %} -->
