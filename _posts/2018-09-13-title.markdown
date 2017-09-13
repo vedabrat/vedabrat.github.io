@@ -8,7 +8,7 @@ description: First step to the loan process with Anand
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
   <!-- all your input fields here.... -->
-  </p>
+
 <table width="100%" cellpadding="3" cellspacing="0">
 	<col width="128*">
 	<col width="128*">
@@ -20,7 +20,7 @@ description: First step to the loan process with Anand
 	</tr>
 	<tr valign="top">
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<p><input type="text" id="input01" placeholder="Name: eg. John Smith"/></p>
+			<p><input type="text" name="name" id="input01" placeholder="Name: eg. John Smith"/></p>
 		</td>
 		<td width="50%" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
 			<p><input type="text" id="input02" placeholder="Today's Date: eg. 12/12/2018"/></p>
