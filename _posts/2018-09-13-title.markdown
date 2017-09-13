@@ -339,7 +339,7 @@ console.log (timestamp, specArr0, specArr1);
 
 
 
-</script>\
+</script>
 
 <!--
 {% highlight c++ %}
