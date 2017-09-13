@@ -30,7 +30,7 @@ Hi I'm Vedabrat Anand Etwaru. Most people know me as Anand. My favorite subreddi
 <br/>
 <hr/>
 <br/>
-<span class="contacticon center">
+<span class="contact icon center">
 	<a href="mailto:vedabrat@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/vedabrat" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>

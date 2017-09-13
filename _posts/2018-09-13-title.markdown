@@ -342,7 +342,7 @@ console.log (timestamp, specArr0, specArr1);
 
 </script>\
 
-
+<!--
 {% highlight c++ %}
 
 int main(int argc, char const *argv[])
@@ -363,4 +363,4 @@ int main(int argc, char const *argv[])
 	return 0;
 }
 
-{% endhighlight %}
+{% endhighlight %} -->
