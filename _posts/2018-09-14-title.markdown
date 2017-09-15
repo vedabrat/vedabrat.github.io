@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Frontend Developer Goals.
+title:  Get a loan
 date:   2018-09-12 16:40:16
-description: Goals as a Frontend Developer
+description: Fill out this form to start the process to obtain a personal loan.
 ---
 
 <form action="https://getsimpleform.com/messages?form_api_token=5364b7dc575df9a4449bde7d9e63a705" method="post">
